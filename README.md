@@ -137,6 +137,8 @@ B.Tech Artificial Intelligence Student
 
 LinkedIn:https://www.linkedin.com/in/thuvvara-abhishek-01768b362/
 
+github:-https://github.com/abhishekthuvvara
+
 ---
 📜 License
 This project is created for educational and internship purposes under the DecodeLabs AI Internship Program.
