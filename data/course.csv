@@ -1,0 +1,45 @@
+Course_Name,Category,Level,Description
+Python for Beginners,Programming,Beginner,Learn Python programming from scratch with hands on examples
+Advanced Python,Programming,Advanced,Master advanced Python concepts decorators generators and multithreading
+Data Structures and Algorithms,Programming,Intermediate,Learn arrays linked lists stacks queues trees graphs and algorithms
+Java Programming,Programming,Beginner,Complete Java programming from basics to object oriented programming
+C Programming,Programming,Beginner,Understand C programming language pointers memory and functions
+C++ Programming,Programming,Intermediate,Learn object oriented programming with C plus plus
+JavaScript Essentials,Web Development,Beginner,Learn JavaScript for interactive websites
+HTML and CSS,Web Development,Beginner,Design responsive websites using HTML5 and CSS3
+React.js,Web Development,Intermediate,Build modern web applications using React
+Node.js Backend Development,Web Development,Intermediate,Develop REST APIs using Node.js and Express
+SQL Fundamentals,Database,Beginner,Learn SQL queries joins views indexes and database design
+MongoDB,Database,Intermediate,Learn NoSQL database concepts using MongoDB
+Machine Learning with Python,Artificial Intelligence,Intermediate,Build machine learning models using Scikit Learn
+Deep Learning,Artificial Intelligence,Advanced,Learn neural networks CNN RNN LSTM and transformers
+Natural Language Processing,Artificial Intelligence,Advanced,Text processing sentiment analysis chatbot development
+Computer Vision,Artificial Intelligence,Advanced,Object detection image classification and OpenCV
+Data Science,Data Science,Intermediate,Data cleaning visualization statistics and predictive analytics
+Pandas for Data Analysis,Data Science,Beginner,Analyze datasets efficiently using Pandas
+NumPy Essentials,Data Science,Beginner,Perform numerical computing using NumPy arrays
+Matplotlib Visualization,Data Science,Beginner,Create charts graphs and visualizations in Python
+Power BI Dashboard,Business Intelligence,Intermediate,Create business dashboards using Power BI
+Tableau Fundamentals,Business Intelligence,Intermediate,Visualize business data using Tableau
+Git and GitHub,DevOps,Beginner,Version control collaboration and GitHub workflow
+Docker Essentials,DevOps,Intermediate,Containerize applications using Docker
+Kubernetes Basics,DevOps,Advanced,Deploy and manage containerized applications
+AWS Cloud Practitioner,Cloud Computing,Beginner,Learn cloud computing using Amazon Web Services
+Microsoft Azure Fundamentals,Cloud Computing,Beginner,Understand Azure cloud services and deployment
+Google Cloud Platform,Cloud Computing,Intermediate,Learn cloud computing using GCP
+Cyber Security Basics,Cyber Security,Beginner,Network security encryption authentication and firewalls
+Ethical Hacking,Cyber Security,Advanced,Penetration testing vulnerability assessment and Kali Linux
+Linux Administration,Operating Systems,Intermediate,Manage Linux systems users permissions and services
+Operating Systems,Computer Science,Intermediate,Understand process scheduling memory management and file systems
+Computer Networks,Computer Science,Intermediate,Learn TCP IP routing switching and networking protocols
+Compiler Design,Computer Science,Advanced,Lexical analysis parsing optimization and code generation
+Software Engineering,Computer Science,Beginner,Software development life cycle Agile Scrum and testing
+Artificial Intelligence Fundamentals,Artificial Intelligence,Beginner,Introduction to AI search algorithms and intelligent systems
+Reinforcement Learning,Artificial Intelligence,Advanced,Q Learning Deep Reinforcement Learning and robotics
+Prompt Engineering,Artificial Intelligence,Intermediate,Learn prompt design for Large Language Models
+Generative AI,Artificial Intelligence,Intermediate,Learn ChatGPT Gemini Llama and diffusion models
+FastAPI Development,Backend Development,Intermediate,Build high performance APIs using FastAPI
+Flask Web Development,Backend Development,Beginner,Develop lightweight Python web applications
+Django Web Development,Backend Development,Intermediate,Create full stack web applications using Django
+Android App Development,Mobile Development,Intermediate,Develop Android applications using Kotlin
+Flutter Development,Mobile Development,Intermediate,Build cross platform mobile applications using Flutter
